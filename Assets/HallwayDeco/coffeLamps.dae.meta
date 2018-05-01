@@ -1,0 +1,681 @@
+fileFormatVersion: 2
+guid: f5c15c5866edf74408878c5c107ab9ea
+timeCreated: 1522710348
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: cap
+    100002: cap 1
+    100004: //RootNode
+    100006: Component_1
+    100008: Component_1 1
+    100010: finial
+    100012: finial 1
+    100014: group_0
+    100016: group_0 1
+    100018: group_1
+    100020: group_1 1
+    100022: harp
+    100024: harp 1
+    100026: ID117
+    100028: ID117 1
+    100030: ID125
+    100032: ID125 1
+    100034: ID133
+    100036: ID133 1
+    100038: ID141
+    100040: ID141 1
+    100042: ID149
+    100044: ID149 1
+    100046: ID15
+    100048: ID15 1
+    100050: ID181
+    100052: ID181 1
+    100054: ID187
+    100056: ID187 1
+    100058: ID193
+    100060: ID193 1
+    100062: ID199
+    100064: ID199 1
+    100066: ID207
+    100068: ID207 1
+    100070: ID213
+    100072: ID213 1
+    100074: ID219
+    100076: ID219 1
+    100078: ID225
+    100080: ID225 1
+    100082: ID233
+    100084: ID233 1
+    100086: ID239
+    100088: ID239 1
+    100090: ID255
+    100092: ID255 1
+    100094: ID263
+    100096: ID263 1
+    100098: ID271
+    100100: ID271 1
+    100102: ID277
+    100104: ID277 1
+    100106: ID281
+    100108: ID281 1
+    100110: ID285
+    100112: ID285 1
+    100114: ID289
+    100116: ID289 1
+    100118: ID301
+    100120: ID301 1
+    100122: ID307
+    100124: ID307 1
+    100126: ID31
+    100128: ID31 1
+    100130: ID313
+    100132: ID313 1
+    100134: ID319
+    100136: ID319 1
+    100138: ID336
+    100140: ID336 1
+    100142: ID342
+    100144: ID342 1
+    100146: ID348
+    100148: ID348 1
+    100150: ID361
+    100152: ID361 1
+    100154: ID37
+    100156: ID37 1
+    100158: ID371
+    100160: ID371 1
+    100162: ID379
+    100164: ID379 1
+    100166: ID387
+    100168: ID387 1
+    100170: ID395
+    100172: ID395 1
+    100174: ID403
+    100176: ID403 1
+    100178: ID411
+    100180: ID411 1
+    100182: ID419
+    100184: ID419 1
+    100186: ID427
+    100188: ID427 1
+    100190: ID43
+    100192: ID43 1
+    100194: ID435
+    100196: ID435 1
+    100198: ID443
+    100200: ID443 1
+    100202: ID449
+    100204: ID449 1
+    100206: ID464
+    100208: ID464 1
+    100210: ID472
+    100212: ID472 1
+    100214: ID480
+    100216: ID480 1
+    100218: ID488
+    100220: ID488 1
+    100222: ID496
+    100224: ID496 1
+    100226: ID502
+    100228: ID502 1
+    100230: ID514
+    100232: ID514 1
+    100234: image_0
+    100236: image_0 1
+    100238: instance_0
+    100240: instance_1
+    100242: instance_1 1
+    100244: instance_10
+    100246: instance_2
+    100248: instance_2 1
+    100250: instance_3
+    100252: instance_3 1
+    100254: instance_4
+    100256: instance_4 1
+    100258: instance_5
+    100260: instance_5 1
+    100262: instance_6
+    100264: instance_6 1
+    100266: instance_7
+    100268: instance_7 1
+    100270: instance_8
+    100272: instance_8 1
+    100274: instance_9
+    100276: instance_9 1
+    100278: Lamp
+    100280: Lamp 1
+    100282: lampshade
+    100284: lampshade 1
+    100286: Light_Bulb_and_Socket
+    100288: Light_Bulb_and_Socket 1
+    100290: marble_base
+    100292: marble_base 1
+    100294: shaft
+    100296: shaft 1
+    100298: skp_camera_Last_Saved_SketchUp_View
+    100300: table_lamp
+    100302: table_lamp 1
+    400000: cap
+    400002: cap 1
+    400004: //RootNode
+    400006: Component_1
+    400008: Component_1 1
+    400010: finial
+    400012: finial 1
+    400014: group_0
+    400016: group_0 1
+    400018: group_1
+    400020: group_1 1
+    400022: harp
+    400024: harp 1
+    400026: ID117
+    400028: ID117 1
+    400030: ID125
+    400032: ID125 1
+    400034: ID133
+    400036: ID133 1
+    400038: ID141
+    400040: ID141 1
+    400042: ID149
+    400044: ID149 1
+    400046: ID15
+    400048: ID15 1
+    400050: ID181
+    400052: ID181 1
+    400054: ID187
+    400056: ID187 1
+    400058: ID193
+    400060: ID193 1
+    400062: ID199
+    400064: ID199 1
+    400066: ID207
+    400068: ID207 1
+    400070: ID213
+    400072: ID213 1
+    400074: ID219
+    400076: ID219 1
+    400078: ID225
+    400080: ID225 1
+    400082: ID233
+    400084: ID233 1
+    400086: ID239
+    400088: ID239 1
+    400090: ID255
+    400092: ID255 1
+    400094: ID263
+    400096: ID263 1
+    400098: ID271
+    400100: ID271 1
+    400102: ID277
+    400104: ID277 1
+    400106: ID281
+    400108: ID281 1
+    400110: ID285
+    400112: ID285 1
+    400114: ID289
+    400116: ID289 1
+    400118: ID301
+    400120: ID301 1
+    400122: ID307
+    400124: ID307 1
+    400126: ID31
+    400128: ID31 1
+    400130: ID313
+    400132: ID313 1
+    400134: ID319
+    400136: ID319 1
+    400138: ID336
+    400140: ID336 1
+    400142: ID342
+    400144: ID342 1
+    400146: ID348
+    400148: ID348 1
+    400150: ID361
+    400152: ID361 1
+    400154: ID37
+    400156: ID37 1
+    400158: ID371
+    400160: ID371 1
+    400162: ID379
+    400164: ID379 1
+    400166: ID387
+    400168: ID387 1
+    400170: ID395
+    400172: ID395 1
+    400174: ID403
+    400176: ID403 1
+    400178: ID411
+    400180: ID411 1
+    400182: ID419
+    400184: ID419 1
+    400186: ID427
+    400188: ID427 1
+    400190: ID43
+    400192: ID43 1
+    400194: ID435
+    400196: ID435 1
+    400198: ID443
+    400200: ID443 1
+    400202: ID449
+    400204: ID449 1
+    400206: ID464
+    400208: ID464 1
+    400210: ID472
+    400212: ID472 1
+    400214: ID480
+    400216: ID480 1
+    400218: ID488
+    400220: ID488 1
+    400222: ID496
+    400224: ID496 1
+    400226: ID502
+    400228: ID502 1
+    400230: ID514
+    400232: ID514 1
+    400234: image_0
+    400236: image_0 1
+    400238: instance_0
+    400240: instance_1
+    400242: instance_1 1
+    400244: instance_10
+    400246: instance_2
+    400248: instance_2 1
+    400250: instance_3
+    400252: instance_3 1
+    400254: instance_4
+    400256: instance_4 1
+    400258: instance_5
+    400260: instance_5 1
+    400262: instance_6
+    400264: instance_6 1
+    400266: instance_7
+    400268: instance_7 1
+    400270: instance_8
+    400272: instance_8 1
+    400274: instance_9
+    400276: instance_9 1
+    400278: Lamp
+    400280: Lamp 1
+    400282: lampshade
+    400284: lampshade 1
+    400286: Light_Bulb_and_Socket
+    400288: Light_Bulb_and_Socket 1
+    400290: marble_base
+    400292: marble_base 1
+    400294: shaft
+    400296: shaft 1
+    400298: skp_camera_Last_Saved_SketchUp_View
+    400300: table_lamp
+    400302: table_lamp 1
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: Color_D06
+    2100002: Color_D02
+    2100004: green_marble-cat
+    2100006: material
+    2100008: material_1
+    2100010: Color_D05
+    2100012: material_0
+    2100014: Metal_Aluminum_Anodized
+    2100016: Color_007
+    2100018: Color_002
+    2100020: Translucent_Glass_Gray
+    2100022: Color_008
+    2100024: Color_001
+    2300000: cap
+    2300002: cap 1
+    2300004: Component_1
+    2300006: Component_1 1
+    2300008: finial
+    2300010: finial 1
+    2300012: group_0
+    2300014: group_0 1
+    2300016: group_1
+    2300018: group_1 1
+    2300020: harp
+    2300022: harp 1
+    2300024: ID117
+    2300026: ID117 1
+    2300028: ID125
+    2300030: ID125 1
+    2300032: ID133
+    2300034: ID133 1
+    2300036: ID141
+    2300038: ID141 1
+    2300040: ID149
+    2300042: ID149 1
+    2300044: ID181
+    2300046: ID181 1
+    2300048: ID187
+    2300050: ID187 1
+    2300052: ID193
+    2300054: ID193 1
+    2300056: ID199
+    2300058: ID199 1
+    2300060: ID207
+    2300062: ID207 1
+    2300064: ID213
+    2300066: ID213 1
+    2300068: ID219
+    2300070: ID219 1
+    2300072: ID225
+    2300074: ID225 1
+    2300076: ID233
+    2300078: ID233 1
+    2300080: ID239
+    2300082: ID239 1
+    2300084: ID255
+    2300086: ID255 1
+    2300088: ID263
+    2300090: ID263 1
+    2300092: ID271
+    2300094: ID271 1
+    2300096: ID301
+    2300098: ID301 1
+    2300100: ID307
+    2300102: ID307 1
+    2300104: ID31
+    2300106: ID31 1
+    2300108: ID313
+    2300110: ID313 1
+    2300112: ID319
+    2300114: ID319 1
+    2300116: ID336
+    2300118: ID336 1
+    2300120: ID342
+    2300122: ID342 1
+    2300124: ID348
+    2300126: ID348 1
+    2300128: ID361
+    2300130: ID361 1
+    2300132: ID37
+    2300134: ID37 1
+    2300136: ID371
+    2300138: ID371 1
+    2300140: ID379
+    2300142: ID379 1
+    2300144: ID387
+    2300146: ID387 1
+    2300148: ID395
+    2300150: ID395 1
+    2300152: ID403
+    2300154: ID403 1
+    2300156: ID411
+    2300158: ID411 1
+    2300160: ID419
+    2300162: ID419 1
+    2300164: ID427
+    2300166: ID427 1
+    2300168: ID43
+    2300170: ID43 1
+    2300172: ID435
+    2300174: ID435 1
+    2300176: ID443
+    2300178: ID443 1
+    2300180: ID464
+    2300182: ID464 1
+    2300184: ID472
+    2300186: ID472 1
+    2300188: ID480
+    2300190: ID480 1
+    2300192: ID488
+    2300194: ID488 1
+    2300196: ID496
+    2300198: ID496 1
+    2300200: ID502
+    2300202: ID502 1
+    2300204: image_0
+    2300206: image_0 1
+    2300208: lampshade
+    2300210: lampshade 1
+    2300212: marble_base
+    2300214: marble_base 1
+    2300216: shaft
+    2300218: shaft 1
+    3300000: cap
+    3300002: cap 1
+    3300004: Component_1
+    3300006: Component_1 1
+    3300008: finial
+    3300010: finial 1
+    3300012: group_0
+    3300014: group_0 1
+    3300016: group_1
+    3300018: group_1 1
+    3300020: harp
+    3300022: harp 1
+    3300024: ID117
+    3300026: ID117 1
+    3300028: ID125
+    3300030: ID125 1
+    3300032: ID133
+    3300034: ID133 1
+    3300036: ID141
+    3300038: ID141 1
+    3300040: ID149
+    3300042: ID149 1
+    3300044: ID181
+    3300046: ID181 1
+    3300048: ID187
+    3300050: ID187 1
+    3300052: ID193
+    3300054: ID193 1
+    3300056: ID199
+    3300058: ID199 1
+    3300060: ID207
+    3300062: ID207 1
+    3300064: ID213
+    3300066: ID213 1
+    3300068: ID219
+    3300070: ID219 1
+    3300072: ID225
+    3300074: ID225 1
+    3300076: ID233
+    3300078: ID233 1
+    3300080: ID239
+    3300082: ID239 1
+    3300084: ID255
+    3300086: ID255 1
+    3300088: ID263
+    3300090: ID263 1
+    3300092: ID271
+    3300094: ID271 1
+    3300096: ID301
+    3300098: ID301 1
+    3300100: ID307
+    3300102: ID307 1
+    3300104: ID31
+    3300106: ID31 1
+    3300108: ID313
+    3300110: ID313 1
+    3300112: ID319
+    3300114: ID319 1
+    3300116: ID336
+    3300118: ID336 1
+    3300120: ID342
+    3300122: ID342 1
+    3300124: ID348
+    3300126: ID348 1
+    3300128: ID361
+    3300130: ID361 1
+    3300132: ID37
+    3300134: ID37 1
+    3300136: ID371
+    3300138: ID371 1
+    3300140: ID379
+    3300142: ID379 1
+    3300144: ID387
+    3300146: ID387 1
+    3300148: ID395
+    3300150: ID395 1
+    3300152: ID403
+    3300154: ID403 1
+    3300156: ID411
+    3300158: ID411 1
+    3300160: ID419
+    3300162: ID419 1
+    3300164: ID427
+    3300166: ID427 1
+    3300168: ID43
+    3300170: ID43 1
+    3300172: ID435
+    3300174: ID435 1
+    3300176: ID443
+    3300178: ID443 1
+    3300180: ID464
+    3300182: ID464 1
+    3300184: ID472
+    3300186: ID472 1
+    3300188: ID480
+    3300190: ID480 1
+    3300192: ID488
+    3300194: ID488 1
+    3300196: ID496
+    3300198: ID496 1
+    3300200: ID502
+    3300202: ID502 1
+    3300204: image_0
+    3300206: image_0 1
+    3300208: lampshade
+    3300210: lampshade 1
+    3300212: marble_base
+    3300214: marble_base 1
+    3300216: shaft
+    3300218: shaft 1
+    4300000: harp
+    4300002: lampshade
+    4300004: ID31
+    4300006: ID37
+    4300008: ID43
+    4300010: finial
+    4300012: marble_base
+    4300014: ID117
+    4300016: ID125
+    4300018: ID133
+    4300020: ID141
+    4300022: ID149
+    4300024: image_0
+    4300026: shaft
+    4300028: ID181
+    4300030: ID187
+    4300032: ID193
+    4300034: ID199
+    4300036: ID207
+    4300038: ID213
+    4300040: ID219
+    4300042: ID225
+    4300044: ID233
+    4300046: ID239
+    4300048: cap
+    4300050: ID255
+    4300052: ID263
+    4300054: ID271
+    4300056: Component_1
+    4300058: ID301
+    4300060: ID307
+    4300062: ID313
+    4300064: ID319
+    4300066: group_0
+    4300068: ID336
+    4300070: ID342
+    4300072: ID348
+    4300074: ID361
+    4300076: ID371
+    4300078: ID379
+    4300080: ID387
+    4300082: ID395
+    4300084: ID403
+    4300086: ID411
+    4300088: ID419
+    4300090: ID427
+    4300092: ID435
+    4300094: ID443
+    4300096: group_1
+    4300098: ID464
+    4300100: ID472
+    4300102: ID480
+    4300104: ID488
+    4300106: ID496
+    4300108: ID502
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

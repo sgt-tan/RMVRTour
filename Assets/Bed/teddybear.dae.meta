@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: dcb3ed0ce8731ab4b8e9c86710073696
+timeCreated: 1521569655
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arm
+    100002: Arm 1
+    100004: Body
+    100006: EarRight
+    100008: EarRight 1
+    100010: eye
+    100012: eye 1
+    100014: foot
+    100016: foot 1
+    100018: Hands
+    100020: Hands 1
+    100022: Head
+    100024: ID103
+    100026: ID117
+    100028: ID117 1
+    100030: ID18
+    100032: ID185
+    100034: ID185 1
+    100036: ID193
+    100038: ID193 1
+    100040: ID212
+    100042: ID212 1
+    100044: ID61
+    100046: ID69
+    100048: ID77
+    100050: ID85
+    100052: ID93
+    100054: ID99
+    100056: instance_0
+    100058: instance_1
+    100060: Jaw
+    100062: Leg
+    100064: Leg 1
+    100066: Leg_Foot
+    100068: Leg_Foot 1
+    100070: nose
+    100072: skp_camera_Last_Saved_SketchUp_View
+    100074: Sphere_1
+    100076: Sphere_10
+    100078: Sphere_10 1
+    100080: Sphere_2
+    100082: Sphere_3
+    100084: Sphere_4
+    100086: Sphere_4 1
+    100088: Sphere_5
+    100090: Sphere_5 1
+    100092: Sphere_6
+    100094: Sphere_6 1
+    100096: Sphere_7
+    100098: Sphere_7 1
+    100100: Sphere_8
+    100102: Sphere_9
+    100104: Sphere_9 1
+    100106: //RootNode
+    400000: Arm
+    400002: Arm 1
+    400004: Body
+    400006: EarRight
+    400008: EarRight 1
+    400010: eye
+    400012: eye 1
+    400014: foot
+    400016: foot 1
+    400018: Hands
+    400020: Hands 1
+    400022: Head
+    400024: ID103
+    400026: ID117
+    400028: ID117 1
+    400030: ID18
+    400032: ID185
+    400034: ID185 1
+    400036: ID193
+    400038: ID193 1
+    400040: ID212
+    400042: ID212 1
+    400044: ID61
+    400046: ID69
+    400048: ID77
+    400050: ID85
+    400052: ID93
+    400054: ID99
+    400056: instance_0
+    400058: instance_1
+    400060: Jaw
+    400062: Leg
+    400064: Leg 1
+    400066: Leg_Foot
+    400068: Leg_Foot 1
+    400070: nose
+    400072: skp_camera_Last_Saved_SketchUp_View
+    400074: Sphere_1
+    400076: Sphere_10
+    400078: Sphere_10 1
+    400080: Sphere_2
+    400082: Sphere_3
+    400084: Sphere_4
+    400086: Sphere_4 1
+    400088: Sphere_5
+    400090: Sphere_5 1
+    400092: Sphere_6
+    400094: Sphere_6 1
+    400096: Sphere_7
+    400098: Sphere_7 1
+    400100: Sphere_8
+    400102: Sphere_9
+    400104: Sphere_9 1
+    400106: //RootNode
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: BearBrown
+    2100002: BearTan
+    2100004: Leather_Red_Brown
+    2100006: BearTan_0
+    2100008: Leather_Red_Brown_1
+    2100010: Translucent_Glass_Gray
+    2300000: ID117
+    2300002: ID117 1
+    2300004: ID18
+    2300006: ID185
+    2300008: ID185 1
+    2300010: ID193
+    2300012: ID193 1
+    2300014: ID212
+    2300016: ID212 1
+    2300018: ID61
+    2300020: ID69
+    2300022: ID77
+    2300024: ID85
+    2300026: Sphere_1
+    2300028: Sphere_10
+    2300030: Sphere_10 1
+    2300032: Sphere_2
+    2300034: Sphere_3
+    2300036: Sphere_4
+    2300038: Sphere_4 1
+    2300040: Sphere_5
+    2300042: Sphere_5 1
+    2300044: Sphere_6
+    2300046: Sphere_6 1
+    2300048: Sphere_7
+    2300050: Sphere_7 1
+    2300052: Sphere_8
+    2300054: Sphere_9
+    2300056: Sphere_9 1
+    3300000: ID117
+    3300002: ID117 1
+    3300004: ID18
+    3300006: ID185
+    3300008: ID185 1
+    3300010: ID193
+    3300012: ID193 1
+    3300014: ID212
+    3300016: ID212 1
+    3300018: ID61
+    3300020: ID69
+    3300022: ID77
+    3300024: ID85
+    3300026: Sphere_1
+    3300028: Sphere_10
+    3300030: Sphere_10 1
+    3300032: Sphere_2
+    3300034: Sphere_3
+    3300036: Sphere_4
+    3300038: Sphere_4 1
+    3300040: Sphere_5
+    3300042: Sphere_5 1
+    3300044: Sphere_6
+    3300046: Sphere_6 1
+    3300048: Sphere_7
+    3300050: Sphere_7 1
+    3300052: Sphere_8
+    3300054: Sphere_9
+    3300056: Sphere_9 1
+    4300000: Sphere_2
+    4300002: ID18
+    4300004: Sphere_1
+    4300006: Sphere_3
+    4300008: ID61
+    4300010: ID69
+    4300012: ID77
+    4300014: ID85
+    4300016: Sphere_4
+    4300018: ID117
+    4300020: Sphere_7
+    4300022: Sphere_8
+    4300024: Sphere_9
+    4300026: Sphere_5
+    4300028: Sphere_6
+    4300030: ID185
+    4300032: ID193
+    4300034: Sphere_10
+    4300036: ID212
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

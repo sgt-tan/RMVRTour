@@ -1,0 +1,293 @@
+fileFormatVersion: 2
+guid: e0428a46f79f9604086727d4eab034c9
+timeCreated: 1521781742
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back_wheel_L_1
+    100002: back_wheel_L_1 1
+    100004: back_wheel_L_1_part1
+    100006: back_wheel_L_1_part_2
+    100008: back_wheel_L_2
+    100010: back_wheel_L_2_part_1
+    100012: back_wheel_L_2_part_2
+    100014: back_wheel_R_1
+    100016: back_wheel_R_1_part_1
+    100018: back_wheel_R_1_part_2
+    100020: back_wheel_R_2
+    100022: back_wheel_R_2_part1
+    100024: back_wheel_R_2_part2
+    100026: back_wheels
+    100028: back_wheels_L_2
+    100030: back_wheels_R_1
+    100032: back_wheels_R_2
+    100034: body
+    100036: body_2
+    100038: body_3
+    100040: container
+    100042: container_part_1
+    100044: container_part_2
+    100046: container_part_3
+    100048: container_part_4
+    100050: cork
+    100052: front_wheel_L_1
+    100054: front_wheel_L_1 1
+    100056: front_wheel_L_1_part_1
+    100058: front_wheel_L_1_part_2
+    100060: front_wheel_L_2
+    100062: front_wheel_L_2 1
+    100064: front_wheel_L_2_part2
+    100066: front_wheel_L_2_part3
+    100068: front_wheel_R_1
+    100070: front_wheel_R_1 1
+    100072: front_wheel_R_1_part1
+    100074: front_wheel_R_1_part_2
+    100076: front_wheel_R_2
+    100078: front_wheel_R_2 1
+    100080: front_wheel_R_2_part2
+    100082: front_wheel_R_2_part_1
+    100084: front_wheels
+    100086: main_body
+    100088: main_body_1
+    100090: main_body_2
+    100092: screw_1
+    100094: screws
+    100096: shrew_2
+    100098: train_top
+    100100: wheels
+    100102: //RootNode
+    400000: back_wheel_L_1
+    400002: back_wheel_L_1 1
+    400004: back_wheel_L_1_part1
+    400006: back_wheel_L_1_part_2
+    400008: back_wheel_L_2
+    400010: back_wheel_L_2_part_1
+    400012: back_wheel_L_2_part_2
+    400014: back_wheel_R_1
+    400016: back_wheel_R_1_part_1
+    400018: back_wheel_R_1_part_2
+    400020: back_wheel_R_2
+    400022: back_wheel_R_2_part1
+    400024: back_wheel_R_2_part2
+    400026: back_wheels
+    400028: back_wheels_L_2
+    400030: back_wheels_R_1
+    400032: back_wheels_R_2
+    400034: body
+    400036: body_2
+    400038: body_3
+    400040: container
+    400042: container_part_1
+    400044: container_part_2
+    400046: container_part_3
+    400048: container_part_4
+    400050: cork
+    400052: front_wheel_L_1
+    400054: front_wheel_L_1 1
+    400056: front_wheel_L_1_part_1
+    400058: front_wheel_L_1_part_2
+    400060: front_wheel_L_2
+    400062: front_wheel_L_2 1
+    400064: front_wheel_L_2_part2
+    400066: front_wheel_L_2_part3
+    400068: front_wheel_R_1
+    400070: front_wheel_R_1 1
+    400072: front_wheel_R_1_part1
+    400074: front_wheel_R_1_part_2
+    400076: front_wheel_R_2
+    400078: front_wheel_R_2 1
+    400080: front_wheel_R_2_part2
+    400082: front_wheel_R_2_part_1
+    400084: front_wheels
+    400086: main_body
+    400088: main_body_1
+    400090: main_body_2
+    400092: screw_1
+    400094: screws
+    400096: shrew_2
+    400098: train_top
+    400100: wheels
+    400102: //RootNode
+    2300000: back_wheel_L_1 1
+    2300002: back_wheel_L_1_part1
+    2300004: back_wheel_L_1_part_2
+    2300006: back_wheel_L_2
+    2300008: back_wheel_L_2_part_1
+    2300010: back_wheel_L_2_part_2
+    2300012: back_wheel_R_1
+    2300014: back_wheel_R_1_part_1
+    2300016: back_wheel_R_1_part_2
+    2300018: back_wheel_R_2
+    2300020: back_wheel_R_2_part1
+    2300022: back_wheel_R_2_part2
+    2300024: body_2
+    2300026: body_3
+    2300028: container_part_1
+    2300030: container_part_2
+    2300032: container_part_3
+    2300034: container_part_4
+    2300036: cork
+    2300038: front_wheel_L_1 1
+    2300040: front_wheel_L_1_part_1
+    2300042: front_wheel_L_1_part_2
+    2300044: front_wheel_L_2 1
+    2300046: front_wheel_L_2_part2
+    2300048: front_wheel_L_2_part3
+    2300050: front_wheel_R_1 1
+    2300052: front_wheel_R_1_part1
+    2300054: front_wheel_R_1_part_2
+    2300056: front_wheel_R_2 1
+    2300058: front_wheel_R_2_part2
+    2300060: front_wheel_R_2_part_1
+    2300062: main_body
+    2300064: main_body_1
+    2300066: main_body_2
+    2300068: screw_1
+    2300070: shrew_2
+    2300072: train_top
+    3300000: back_wheel_L_1 1
+    3300002: back_wheel_L_1_part1
+    3300004: back_wheel_L_1_part_2
+    3300006: back_wheel_L_2
+    3300008: back_wheel_L_2_part_1
+    3300010: back_wheel_L_2_part_2
+    3300012: back_wheel_R_1
+    3300014: back_wheel_R_1_part_1
+    3300016: back_wheel_R_1_part_2
+    3300018: back_wheel_R_2
+    3300020: back_wheel_R_2_part1
+    3300022: back_wheel_R_2_part2
+    3300024: body_2
+    3300026: body_3
+    3300028: container_part_1
+    3300030: container_part_2
+    3300032: container_part_3
+    3300034: container_part_4
+    3300036: cork
+    3300038: front_wheel_L_1 1
+    3300040: front_wheel_L_1_part_1
+    3300042: front_wheel_L_1_part_2
+    3300044: front_wheel_L_2 1
+    3300046: front_wheel_L_2_part2
+    3300048: front_wheel_L_2_part3
+    3300050: front_wheel_R_1 1
+    3300052: front_wheel_R_1_part1
+    3300054: front_wheel_R_1_part_2
+    3300056: front_wheel_R_2 1
+    3300058: front_wheel_R_2_part2
+    3300060: front_wheel_R_2_part_1
+    3300062: main_body
+    3300064: main_body_1
+    3300066: main_body_2
+    3300068: screw_1
+    3300070: shrew_2
+    3300072: train_top
+    4300000: cork
+    4300002: container_part_3
+    4300004: container_part_2
+    4300006: container_part_4
+    4300008: container_part_1
+    4300010: shrew_2
+    4300012: screw_1
+    4300014: main_body
+    4300016: main_body_1
+    4300018: body_3
+    4300020: body_2
+    4300022: main_body_2
+    4300024: train_top
+    4300026: back_wheel_L_1
+    4300028: back_wheel_L_1_part_2
+    4300030: back_wheel_L_1_part1
+    4300032: back_wheel_L_2
+    4300034: back_wheel_L_2_part_2
+    4300036: back_wheel_L_2_part_1
+    4300038: back_wheel_R_1
+    4300040: back_wheel_R_1_part_2
+    4300042: back_wheel_R_1_part_1
+    4300044: back_wheel_R_2
+    4300046: back_wheel_R_2_part2
+    4300048: back_wheel_R_2_part1
+    4300050: front_wheel_L_1
+    4300052: front_wheel_L_1_part_2
+    4300054: front_wheel_L_1_part_1
+    4300056: front_wheel_L_2
+    4300058: front_wheel_L_2_part3
+    4300060: front_wheel_L_2_part2
+    4300062: front_wheel_R_1
+    4300064: front_wheel_R_1_part_2
+    4300066: front_wheel_R_1_part1
+    4300068: front_wheel_R_2
+    4300070: front_wheel_R_2_part2
+    4300072: front_wheel_R_2_part_1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
